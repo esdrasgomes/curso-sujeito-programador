@@ -33,5 +33,4 @@ function adicionarTarefa() {
         renderTarefas();
     }
 }
-
 buttonElement.onclick = adicionarTarefa;
