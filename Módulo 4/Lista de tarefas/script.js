@@ -42,7 +42,6 @@ function adicionarTarefa() {
         renderTarefas();
     }
 }
-
 buttonElement.onclick = adicionarTarefa;
 
 function deletarTarefa(posicao) {
